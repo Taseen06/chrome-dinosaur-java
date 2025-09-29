@@ -208,7 +208,6 @@ public class ChromeDinosaur extends JPanel implements ActionListener, KeyListene
             }
         }
     }
-
     @Override
     public void keyTyped(KeyEvent e) {}
 
